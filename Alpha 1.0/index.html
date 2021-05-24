@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <title id="title">0 Points | Clicker Alpha 1</title>
+</head>
+<body>
+  <label style="position: fixed; background-color: #fff;" for="">Current Version: Alpha 1.0 | <a href="../">Go to Version Selector</a></label>
+  <center>
+    <p>No. of Points: <span id="points">0</span></p>
+    <button id="clicker" onclick="points++;">Click Me</button>
+  </center>
+
+  <button onclick="save();">Save</button><br>
+  <button onclick="load()">Load Save</button>
+
+  <h1>Changelog:</h1>
+  <iframe src="../changelog.txt" width="100%" style="height: 100vh" frameborder="0"></iframe>
+</body>
+</html>

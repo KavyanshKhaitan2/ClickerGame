@@ -1,0 +1,6 @@
+Alpha 1 | Last Modified: 24-05-2021
+o Added Save Functionality
+o Added Load Save Functionality
+o Added Click me button
+o Made Browser Title Format as {No of Points} Points | Clicker {Version of Game}
+o Added No. of Points counter
