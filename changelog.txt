@@ -1,6 +1,12 @@
-Alpha 1 | Last Modified: 24-05-2021
+Alpha 1 | Release Date: 24-05-2021
 o Added Save Functionality
 o Added Load Save Functionality
 o Added Click me button
 o Made Browser Title Format as {No of Points} Points | Clicker {Version of Game}
 o Added No. of Points counter
+
+Alpha 2 | Release Date: Not Released!
+o Added Shop
+o Added Autosave as after Delay mode set the delay for every 10 seconds
+o Loads the Game automatically when you enter the game
+o Added Reset button
