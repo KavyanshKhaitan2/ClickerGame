@@ -609,9 +609,9 @@ setInterval(() => {
 
 
 function save() {
-  localStorage.setItem("save1", JSON.stringify({points : points}))
+  localStorage.setItem("clickerGame", JSON.stringify({points : points}))
 }
 
 function load() {
-  points = JSON.parse(localStorage.getItem("save1")).points;
+  points = JSON.parse(localStorage.getItem("clickerGame")).points;
 }
